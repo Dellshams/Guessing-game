@@ -61,7 +61,7 @@ namespace Guessing
 
             else if (Stage == "Medium")
             {
-                Console.WriteLine("You are playing the Easy Stage");
+                Console.WriteLine("You are playing the Medium Stage");
 
                 int secret_num = 15;
                 int guess = 0;
@@ -107,7 +107,7 @@ namespace Guessing
 
             else if (Stage == "Hard")
             {
-                Console.WriteLine("You are playing the Easy Stage");
+                Console.WriteLine("You are playing the Hard Stage");
 
                 int secret_num = 37;
                 int guess = 0;
